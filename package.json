@@ -1,0 +1,15 @@
+{
+  "name": "empirico-statistical-resources",
+  "version": "0.1.0",
+  "description": "resources for empirico-statistical analysis",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "remark-cli": "^7.0.0",
+    "remark-lint": "^6.0.5",
+    "remark-toc": "^6.0.0"
+  },
+  "scripts": {
+    "format-markdown": "remark readme.md --rc-path remark-config.json --output"
+  }
+}
