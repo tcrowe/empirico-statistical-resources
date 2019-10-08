@@ -47,7 +47,12 @@ Volume II
 
 ## Apps
 
-*searching for apps*
+A Pascal language example running calculations on "Almagest" by Claudius Ptolemy
+<http://chronologia.org/en/seven/3NA2-EN.pdf>
+
+> We have created a program HOROS (ХОРОС) designed specifically for the analyses of the ancient zodiacs and horoscopes which fully utilise all the astronomical data recorded in them (the principal horoscope, additional auxiliary horoscopes and so on.) [НХЕ]
+
+<http://chronologia.org/en/how_it_was/01.html>
 
 ## Algorithms
 

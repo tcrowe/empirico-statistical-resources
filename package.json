@@ -10,6 +10,19 @@
     "remark-toc": "^6.0.0"
   },
   "scripts": {
-    "format-markdown": "remark readme.md --rc-path remark-config.json --output"
+    "format-markdown": "remark ."
+  },
+  "remarkConfig": {
+    "settings": {
+      "bullet": "+",
+      "listItemIndent": 1,
+      "fences": true,
+      "emphasis": "*"
+    },
+    "plugins": [
+      "toc",
+      "lint"
+    ],
+    "output": true
   }
 }
