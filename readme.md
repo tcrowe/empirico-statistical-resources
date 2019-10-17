@@ -1,6 +1,8 @@
 # empirico-statisticical-resources
 
-Empirico-Statisticical Analysis is a type of applied statistics originating from the Russian scientist [Anatoly T. Fomenko and his associates](http://chronologia.org/en/autors.html). This repository aims to be a hub for technical information, modules, and apps reproducing Empirico-Statistical methods and derivative works.
+Empirico-Statisticical Analysis is a type of applied statistics originating from the Russian scientist [Anatoly T. Fomenko and his associates](http://chronologia.org/en/autors.html).
+
+This repository aims to be a hub for technical information, modules, and apps reproducing Empirico-Statistical methods and derivative works. So, we will read the books, and othre resources, and see if we can extract the methods and functions, and then enumerate them here.
 
 If you know of, or can find, more information please create a PR. Thank you!
 
@@ -84,11 +86,10 @@ Volume IV
 
 Volume V
 
-+ ISBN-13: 978-1729260159
-+ ISBN-10: 1729260152
++ ISBN 13 `978-1729260159`
++ ISBN 10 `1729260152`
 
 The 2nd edition is out which you can check out on [chronologia.org and a third the way down](http://chronologia.org/en/index.html).
-
 
 ## Modules
 
