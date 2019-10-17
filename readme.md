@@ -41,6 +41,55 @@ Volume II
 
 + ISBN `0-7923-2606-7`
 
+### Dating Ptolemys Almagest
+
+"Dating Ptolemys Almagest: Geometrical and Statistical Methods of Analysis of Star Configurations"
+
++ A.T. Fomenko
++ V.V. Kalashnikov
++ G.V. Nosovsky
+
+ISBN `0-8493-4483-2`
+
+CRC Press, Inc. 1993
+
+### History: Fiction or Science?
+
+First edition
+
+Volume I
+
++ ISBN `2-913621-05-8`
+
+Delamere Resources Ltd. 2003
+
+Volume II
+
++ ISBN `2-913621-06-6`
++ EAN `9782913621060`
+
+Delamere Resources LLC 2005
+
+Volume III
+
++ ISBN `2-913621-08-2`
++ EAN `9782913621084`
+
+Delamere Resources LLC 2007
+
+Volume IV
+
++ ISBN `2-913621-10-4`
++ EAN `9782913621107`
+
+Volume V
+
++ ISBN-13: 978-1729260159
++ ISBN-10: 1729260152
+
+The 2nd edition is out which you can check out on [chronologia.org and a third the way down](http://chronologia.org/en/index.html).
+
+
 ## Modules
 
 *searching for modules*
